@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Hear what Steve Bannon said about Nikki Haley as Trump's possible VP | CNN Politics",
+            "description": "Donald Trump Jr. and Steve Bannon dismissed the idea of Nikki Haley as a possible 2024 vice presidential candidate for Donald Trump. Chief National Affairs Correspondent Jeff Zeleny weighs in.",
+            "url": "https://www.cnn.com/videos/politics/2024/01/02/steve-bannon-donald-trump-jr-nikki-haley-2024-vp-trump-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240102124145-bannon-haley-split-thumb-vpx.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-02T17:49:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "ANALYSIS | What to expect from Doug Ford and Ontario politics in 2024 | CBC News",
+            "description": "The new year brings new opportunities for Premier Doug Ford to try to move past the controversies that plagued his government in 2023, but he'll be facing a new political threat in the form of Ontario Liberal leader Bonnie Crombie.",
+            "url": "http://www.cbc.ca/news/canada/toronto/ontario-politics-2024-doug-ford-bonnie-crombie-marit-stiles-1.7064529",
+            "urlToImage": "https://i.cbc.ca/1.6960653.1694187767!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/ford-greenbelt-shuffle.jpg",
+            "publishedAt": "2024-01-02T14:07:20.6680376Z",
+            "content": "The new year brings new opportunities for Premier Doug Ford to try to move past the controversies that plagued his government in 2023.\r\nThe Greenbelt scandal dominated Ontario politics for much of la… [+8492 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Why Republican chatter about potential pardons for Trump matters",
+            "description": "Presidential candidates don’t usually have to talk about whether they’d issue pardons for a rival. In 2024, Republican politics is ... different.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/republican-chatter-potential-pardons-trump-matters-rcna131838",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240102-nikki-haley-mn-0720-296779.jpg",
+            "publishedAt": "2024-01-02T13:00:20Z",
+            "content": "It was in early June when Donald Trump was indicted in the former presidents classified documents scandal, and about a week later, Nikki Haley offered some criticism of her former boss. If the allega… [+2754 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Mint",
+            "title": "‘Canadian politics have given space to Khalistani forces’: EAM Jaishankar on India-Canada relations | Mint - Mint",
+            "description": "S Jaishankar in an interview with ANI expressed concern over Khalistani forces being given space in Canadian politics and engaging in activities that harm bilateral relations. He emphasized that these actions are detrimental to both India and Canada.",
+            "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYS9jYW5hZGlhbi1wb2xpdGljcy1naXZlbi1zcGFjZS10by1raGFsaXN0YW5pLWZvcmNlcy1lYW0tamFpc2hhbmthci1vbi1pbmRpYS1jYW5hZGEtcmVsYXRpb25zLTExNzA0MTgwOTg2Nzc4Lmh0bWzSAZcBaHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL25ld3MvaW5kaWEvY2FuYWRpYW4tcG9saXRpY3MtZ2l2ZW4tc3BhY2UtdG8ta2hhbGlzdGFuaS1mb3JjZXMtZWFtLWphaXNoYW5rYXItb24taW5kaWEtY2FuYWRhLXJlbGF0aW9ucy9hbXAtMTE3MDQxODA5ODY3NzguaHRtbA?oc=5",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/01/02/600x338/RUSSIA-INDIA-POLITICS-DIPLOMACY-29_1703832704911_1704181458717.jpg",
+            "publishedAt": "2024-01-02T08:12:16+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "STEVE PEOPLES",
+            "title": "Biden and Trump are poised for a potential rematch that could shake American politics",
+            "description": "LACONIA, N.H. (AP) — U.S. presidential elections have been rocked in recent years by economic disaster, stunning gaffes, secret video and a pandemic. But for all the tumult that defined those campaigns, the volatility surrounding this year's presidential cont…",
+            "url": "https://apnews.com/a6c4a7518cf5a265caa6914f621bdb6a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c712aad1f2834ca686c2296f6cb5a5d1/2000.jpeg",
+            "publishedAt": "2024-01-02T05:03:10Z",
+            "content": "LACONIA, N.H. (AP) — U.S. presidential elections have been rocked in recent years by economic disaster, stunning gaffes, secret video and a pandemic. But for all the tumult that defined those campaig… [+9014 chars]"
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": "The White House’s policy toward Venezuela completely misunderstands conditions on the ground.",
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": "https://tac.imgix.net/wp-content/uploads/2024/01/29756354613_f64a9cb6a9_o-scaled-e1704241557941.jpg?ar=1.5%3A1&auto=format&crop=faces%2Centropy&fit=crop&ixlib=php-3.3.1&w=856",
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
