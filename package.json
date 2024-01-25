@@ -1,6 +1,5 @@
 {
   "name": "newsapp",
-  "homepage": "https://newsapp-six-orcin.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
